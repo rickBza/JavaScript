@@ -14,6 +14,7 @@ function bombaDetector(arr){
         }
         
     });
+    console.log("Hello word");
     const contain = newArray.includes(7);
     if(contain){
         console.log("Tiene bomba ,explota !!!")
